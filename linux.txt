@@ -1,2 +1,3 @@
 Hi, this is RHEL 8.0 .
 Second line is being inserted.
+Third line is ready ti be inserted.
